@@ -1,6 +1,6 @@
 # Todo List – Next.js
 
-A simple Todo List application built while learning Next.js. This project helps me practice Next.js fundamentals and basic React concepts.
+A simple Todo List application built while learning Next.js. This project helps me practice Next.js 
 
 ## Features
 
