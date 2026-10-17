@@ -64,15 +64,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - Learn React components and hooks
 - Practice client and server components
 - Implement authentication with Clerk
-- Manage state using React
 - Store data using Local Storage
 
 ## Purpose
 
 This is a beginner-friendly project created for learning and practicing Next.js development.
-
-## Author
-
-Abhiram N
-
-GitHub: [AbhiramN-Mern](https://github.com/AbhiramN-Mern)
